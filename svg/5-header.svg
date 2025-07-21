@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="0.1in"
+   version="1.2"
+   viewBox="0 0 500 100"
+   width="0.5in"
+   x="0in"
+   y="0in"
+   id="svg29"
+   sodipodi:docname="5-header.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs29" />
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="9.5386906"
+     inkscape:cx="38.422464"
+     inkscape:cy="28.253354"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <desc
+     id="desc1">
+    <referenceFile>generic_female_pin_header_7_100mil_bread.svg</referenceFile>
+  </desc>
+  <g
+     id="5_header">
+    <rect
+       fill="#404040"
+       height="100"
+       width="500"
+       id="rect1"
+       x="0"
+       y="0"
+       style="stroke-width:0.0845154" />
+    <polygon
+       fill="#2a2a29"
+       points="164.507,164.507 306.727,306.727 693.272,306.727 835.631,164.507 "
+       id="polygon2"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#474747"
+       points="835.631,164.507 693.272,306.727 693.272,693.272 835.631,835.631 "
+       id="polygon3"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#595959"
+       points="835.631,835.631 693.272,693.272 306.727,693.272 164.507,835.631 "
+       id="polygon4"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#373737"
+       points="164.507,835.631 306.727,693.272 306.727,306.727 164.507,164.507 "
+       id="polygon5"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#2a2a29"
+       points="1164.51,164.507 1306.73,306.727 1693.27,306.727 1835.63,164.507 "
+       id="polygon6"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#474747"
+       points="1835.63,164.507 1693.27,306.727 1693.27,693.272 1835.63,835.631 "
+       id="polygon7"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#595959"
+       points="1835.63,835.631 1693.27,693.272 1306.73,693.272 1164.51,835.631 "
+       id="polygon8"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#373737"
+       points="1164.51,835.631 1306.73,693.272 1306.73,306.727 1164.51,164.507 "
+       id="polygon9"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#2a2a29"
+       points="2164.51,164.507 2306.73,306.727 2693.27,306.727 2835.63,164.507 "
+       id="polygon10"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#474747"
+       points="2835.63,164.507 2693.27,306.727 2693.27,693.272 2835.63,835.631 "
+       id="polygon11"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#595959"
+       points="2835.63,835.631 2693.27,693.272 2306.73,693.272 2164.51,835.631 "
+       id="polygon12"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#373737"
+       points="2164.51,835.631 2306.73,693.272 2306.73,306.727 2164.51,164.507 "
+       id="polygon13"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#2a2a29"
+       points="3164.51,164.507 3306.73,306.727 3693.27,306.727 3835.63,164.507 "
+       id="polygon14"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#474747"
+       points="3835.63,164.507 3693.27,306.727 3693.27,693.272 3835.63,835.631 "
+       id="polygon15"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#595959"
+       points="3835.63,835.631 3693.27,693.272 3306.73,693.272 3164.51,835.631 "
+       id="polygon16"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#373737"
+       points="3164.51,835.631 3306.73,693.272 3306.73,306.727 3164.51,164.507 "
+       id="polygon17"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#2a2a29"
+       points="4164.51,164.507 4306.73,306.727 4693.27,306.727 4835.63,164.507 "
+       id="polygon18"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#474747"
+       points="4835.63,164.507 4693.27,306.727 4693.27,693.272 4835.63,835.631 "
+       id="polygon19"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#595959"
+       points="4835.63,835.631 4693.27,693.272 4306.73,693.272 4164.51,835.631 "
+       id="polygon20"
+       transform="scale(0.1)" />
+    <polygon
+       fill="#373737"
+       points="4164.51,835.631 4306.73,693.272 4306.73,306.727 4164.51,164.507 "
+       id="polygon21"
+       transform="scale(0.1)" />
+    <rect
+       height="38.6544"
+       width="38.6544"
+       x="30.672699"
+       y="30.672699"
+       id="rect2"
+       style="stroke-width:0.1" />
+    <rect
+       height="38.6544"
+       width="38.6544"
+       x="130.673"
+       y="30.672699"
+       id="rect5"
+       style="stroke-width:0.1" />
+    <rect
+       height="38.6544"
+       width="38.6544"
+       x="230.673"
+       y="30.672699"
+       id="rect9"
+       style="stroke-width:0.1" />
+    <rect
+       height="38.6544"
+       width="38.6544"
+       x="330.673"
+       y="30.672699"
+       id="rect13"
+       style="stroke-width:0.1" />
+    <rect
+       height="38.6544"
+       width="38.6544"
+       x="430.673"
+       y="30.672699"
+       id="rect17"
+       style="stroke-width:0.1" />
+  </g>
+</svg>
