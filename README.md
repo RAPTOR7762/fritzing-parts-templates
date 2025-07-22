@@ -1,2 +1,2 @@
-# fz-bb-subparts
-Subparts to help in Fritzing Breadboard Graphics designing
+# fz-part-templates
+Templates for making Fritzing Parts. Includes a wide collection of breadboard subparts, schematic subparts and `.fzp` templates
